@@ -33,7 +33,7 @@ Start Mysql and MongoDb.
 
 A simple command and all it does is check if your database.config file is correct and all connections work:
 
-		mongify check datbase.config
+		mongify check database.config
 
 Translation is used to auto generate a translation from your SQL database.You simple run it as:
 
